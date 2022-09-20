@@ -10,10 +10,14 @@ body {
     background: black;
 }
 
-h2 {
+.title {
     position: absolute;
     text-align: center;
     width: 100%;
-    top: 15rem;
+    top: 13rem;
     color: white;
+}
+
+h2 {
+    padding: .5rem;
 }
